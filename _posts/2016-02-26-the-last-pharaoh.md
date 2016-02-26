@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T17:32:33.205Z'
-dateModified: '2016-02-26T17:32:17.389Z'
+datePublished: '2016-02-26T21:51:42.612Z'
+dateModified: '2016-02-26T21:51:25.819Z'
 title: THE LAST PHARAOH
 author: []
+sourcePath: _posts/2016-02-26-the-last-pharaoh.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-the-last-pharaoh.md
-published: true
 url: the-last-pharaoh/index.html
 _type: Article
 
