@@ -2,14 +2,30 @@
     <channel>
         <title><![CDATA[THE LAST PHARAOH]]></title>
         <description><![CDATA[THE LAST PHARAOH]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://youngcleopatra.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 17:37:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 21:49:30 GMT</lastBuildDate>
+        <atom:link href="http://youngcleopatra.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Born a Princess
+Cleopatra was born a princess of Egypt. Her father was the Pharaoh Ptolemy VII.
+Cleopatra was smart and cunning growing up. She was her father's favorite child
+and learned a lot about how the country was ruled from him. 
+Cleopatra's family had ruled Egypt for 300 years. They were the Ptolemy dynasty
+that had been established by the Greek ruler Alexander the
+Great. Even though they ruled Egypt, they were actually of Greek descent.
+Cleopatra grew up speaking, reading, and writing Greek. Unlike many of her
+relatives, however, Cleopatra also learned many other languages including
+Egyptian and Latin. </p>]]></description>
+            <link>http://youngcleopatra.com/8acce8ea-8b32-4653-97fa-5f3d7a240e05/index.html</link>
+            <guid isPermaLink="false">8acce8ea-8b32-4653-97fa-5f3d7a240e05</guid>
+            <pubDate>Fri, 26 Feb 2016 21:48:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[THE LAST PHARAOH]]></title>
-            <description><![CDATA[<article><h1>THE LAST PHARAOH</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f198a42c-4d33-4af4-9730-244f4f13ba10.jpg"></article>]]></description>
-            <link>undefinedthe-last-pharaoh/index.html</link>
+            <description><![CDATA[<article><h1>THE LAST PHARAOH</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/569bf6f3e73fbed06c4da9d0c908dec7f5530da5.jpg"></article>]]></description>
+            <link>http://youngcleopatra.com/the-last-pharaoh/index.html</link>
             <guid isPermaLink="false">0c9e1d19-e83c-4a42-9804-298db0c7496a</guid>
             <pubDate>Fri, 26 Feb 2016 17:32:33 GMT</pubDate>
         </item>
