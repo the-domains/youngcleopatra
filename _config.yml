@@ -1,6 +1,6 @@
 name: youngcleopatra
 favicon: null
-layout_spectrum: 0.49426
+layout_spectrum: 0.23596
 typography_spectrum: 0.82981
 title: THE LAST PHARAOH
 collections:
@@ -34,8 +34,8 @@ color:
     - '#FAE0BD'
     - '#C69A65'
     - '#C8BCA3'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 0.3125
-  saturation: 0
+  saturation: 0.4375
   rhythmicContrast: 0.5
 purpose: []
