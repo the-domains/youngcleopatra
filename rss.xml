@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[THE LAST PHARAOH]]></title>
         <description><![CDATA[THE LAST PHARAOH]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://youngcleopatra.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 16:02:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 22:37:37 GMT</lastBuildDate>
+        <atom:link href="http://youngcleopatra.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce926c54-aa06-42a0-a41c-a4def2b501ef.png">]]></description>
-            <link>undefined11d9ea53-886c-4a5c-8c95-e0d7c4eb22e3/index.html</link>
+            <link>http://youngcleopatra.com/11d9ea53-886c-4a5c-8c95-e0d7c4eb22e3/index.html</link>
             <guid isPermaLink="false">11d9ea53-886c-4a5c-8c95-e0d7c4eb22e3</guid>
-            <pubDate>Thu, 03 Mar 2016 16:01:25 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 22:37:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
