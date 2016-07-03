@@ -1,41 +1,41 @@
-name: youngcleopatra
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.82981
 title: THE LAST PHARAOH
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.5404255
+  brandStrength: 1
+  lightness: 0.8340425
   brandColors:
     - '#ffffff'
     - '#7a6996'
     - '#bdd6f5'
     - '#242331'
     - '#87a1d4'
-  brandStrength: 1
-  lightness: 0.1875
-  saturation: 0.3125
   rhythmicContrast: 0
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: youngcleopatra
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.3851064
+layout_spectrum: 0.7234042
